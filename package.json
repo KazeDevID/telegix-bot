@@ -1,0 +1,19 @@
+{
+  "name": "telegix-bot",
+  "version": "1.0.0",
+  "description": "Base script bot Telegram modern menggunakan library telegix.",
+  "license": "MIT",
+  "author": "KazeDevID",
+  "type": "commonjs",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "telegix": "^1.1.2"
+  }
+}
