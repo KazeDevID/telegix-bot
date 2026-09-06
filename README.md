@@ -7,7 +7,7 @@ Base script bot Telegram modern menggunakan library [telegix](https://www.npmjs.
 ### 1. Buka File Konfigurasi
 Buka file `bot/config.js`:
 ```javascript
-botToken = '123456789:ABCdefGhIJKlmNoPQRstuVWXyz' // Token dari @BotFather
+botToken = 'YOUR_TELEGRAM_BOT_TOKEN' // Token dari @BotFather
 botName = 'Nama Bot Anda'
 owner = [
   [123456789, 'Nama Anda', true] // Masukkan ID Telegram Anda
